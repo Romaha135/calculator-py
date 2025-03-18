@@ -1,0 +1,13 @@
+github-actions-demo/  
+│── .github/  
+│   ├── workflows/  
+│   │   ├── run-tests.yml  # GitHub Actions Workflow  
+│  
+├── src/  
+│   ├── calculator.py  # Simple Python Code  
+│  
+├── tests/  
+│   ├── test_calculator.py  # Unit Tests  
+│  
+├── requirements.txt  # Dependencies  
+├── README.md  # Project Info  
